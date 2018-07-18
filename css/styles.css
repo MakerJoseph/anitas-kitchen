@@ -5,11 +5,27 @@ h3{
   text-align: center;
 }
 #breakfast{
+  height: 140px;
   background-image: url("../ip2/assets/foodtop/breakfast.jpg");
+  background-size: auto;
 }
 #lunch{
+  height: 140px;
   background-image: url("../ip2/assets/foodtop/dinner.jpg");
+
+  background-size: auto;
 }
 #dinner{
+  height: 140px;
   background-image: url("../ip2/assets/foodtop/lunch.jpg");
+
+  background-size: auto;
+}
+#hour{
+  height: 70px;
+  text-align: center;
+}
+#party{
+  height: 70px;
+  text-align: center;
 }
