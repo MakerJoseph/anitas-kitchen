@@ -39,3 +39,22 @@ h3{
   justify-content: center;
   margin: 10px 10px 10px 10px;
 }
+#drinks{
+  padding: 30px 30px 30px 30px;
+}
+#drinksimg{
+  border-style:outset;
+  justify-content: center;
+  margin: 10px 10px 10px 10px;
+}
+#foodtext{
+  text-align: left;
+  padding: 20px;
+}
+#drinkstext{
+  text-align: right;
+  padding: 20px;
+}
+#imgright{
+  float: right;
+}
