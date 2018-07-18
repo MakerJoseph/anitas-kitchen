@@ -4,3 +4,12 @@
 h3{
   text-align: center;
 }
+#breakfast{
+  background-image: url("../ip2/assets/foodtop/breakfast.jpg");
+}
+#lunch{
+  background-image: url("../ip2/assets/foodtop/dinner.jpg");
+}
+#dinner{
+  background-image: url("../ip2/assets/foodtop/lunch.jpg");
+}
