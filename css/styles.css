@@ -1,5 +1,6 @@
 .landingpage{
   background-image: url("../ip2/assets/backgrounds/landing.jpg");
+  background-size: cover;
 }
 h3{
   text-align: center;
@@ -29,4 +30,11 @@ h3{
 #party{
   height: 70px;
   text-align: center;
+}
+#fastfood{
+  padding: 30px 30px 30px 30px;
+}
+#fastfoodimg{
+  border-style:inset;
+  justify-content: center;
 }
