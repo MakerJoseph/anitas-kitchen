@@ -61,3 +61,20 @@ h3{
 #imgright{
   float: right;
 }
+#food{
+  background-image: url("../ip2/assets/backgrounds/foodsBg.jpg");
+  height: 600px;
+}
+.customers{
+  height: 400px;
+  background-color: white;
+}
+.subscribe{
+  background-image: url("../ip2/assets/backgrounds/subscribe.jpg");
+  background-size: auto;
+  height: 300px;
+}
+.footer{
+  background-color: #F15A29;
+  height: 400px;
+}
