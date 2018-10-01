@@ -1,3 +1,7 @@
+body{
+  margin: 10px;
+}
+
 .landingpage{
   margin: 0px;
   background-image: url("../ip2/assets/backgrounds/landing.jpg");
@@ -68,6 +72,11 @@ h3{
 .customers{
   height: 400px;
   background-color: white;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-align: center;
 }
 .subscribe{
   background-image: url("../ip2/assets/backgrounds/subscribe.jpg");
@@ -76,5 +85,10 @@ h3{
 }
 .footer{
   background-color: #F15A29;
-  height: 400px;
+  height: 300px;
+  color: white;
+  font-weight: bold;
+  padding-top: 50px;
+  text-align: center;
+
 }
