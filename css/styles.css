@@ -5,6 +5,8 @@ body{
 .landingpage{
   margin: 0px;
   background-image: url("../ip2/assets/backgrounds/landing.jpg");
+  background-size: cover;
+  height: 400px;
 }
 #meals{
   padding: 0px;
