@@ -82,6 +82,9 @@ h3{
   background-image: url("../ip2/assets/backgrounds/subscribe.jpg");
   background-size: auto;
   height: 300px;
+  text-align: center;
+  color: white;
+  padding-top: 80px;
 }
 .footer{
   background-color: #F15A29;
