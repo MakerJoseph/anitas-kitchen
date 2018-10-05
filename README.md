@@ -6,7 +6,7 @@ This website describes and shows  the menu for Anita's restaurant. Meals are ser
 ## Setup/Installation Requirements
 * Clone the repository
 * Open chrome browser
-* Use the link 
+* Use the link https://makerjoseph.github.io/anitas-kitchen/
 
 ## Technologies Used
 HTML, CSS
