@@ -19,18 +19,25 @@ h3{
   height: 140px;
   background-image: url("../ip2/assets/foodtop/breakfast.jpg");
   background-size: auto;
+  color: white;
+  text-align: center;
+  padding: 40px;
 }
 #lunch{
   height: 140px;
   background-image: url("../ip2/assets/foodtop/dinner.jpg");
-
   background-size: auto;
+  color: white;
+  text-align: center;
+  padding: 40px;
 }
 #dinner{
   height: 140px;
   background-image: url("../ip2/assets/foodtop/lunch.jpg");
-
   background-size: auto;
+  color: white;
+  text-align: center;
+  padding: 40px;
 }
 #hour{
   height: 70px;
@@ -41,21 +48,20 @@ h3{
   text-align: center;
 }
 #fastfood{
-  padding: 30px;
+  padding: 40px 100px;
 }
 #fastfoodimg{
   border-style:outset;
-  justify-content: center;
-  margin: 10px;
+  text-align: center;
+  padding: 20px;
 }
 #drinks{
-  padding: 30px;
+  padding: 40px 80px;
 }
 #drinksimg{
   border-style:outset;
-  justify-content: center;
-  margin: 10px;
-  padding: 30px;
+  /* text-align: center; */
+  padding: 10px 64px;
 }
 #foodtext{
   text-align: left;
